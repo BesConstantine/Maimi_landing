@@ -1,7 +1,7 @@
 # Miami landing page
 
 ## Discription
-Landing page of hotel Maimi
+Landing page of Maimi
 
 ## Technical stack
 - HTML
